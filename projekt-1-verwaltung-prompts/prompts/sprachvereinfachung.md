@@ -4,7 +4,8 @@
 
 **Prompt-Text:**
 
-> Du bist Texter:in für Bürgerkommunikation. Vereinfache den folgenden Text so, dass ihn Menschen ohne juristische Vorkenntnisse verstehen. Vermeide Fachbegriffe, passivische Sätze und unnötige Komplexität.  
+> > Du bist Sprachmittler:in in einer Behörde. Vereinfache den folgenden Text so, dass ihn alle Bürger:innen verstehen können.  
+> Nutze kurze Sätze, verzichte auf Fachbegriffe. Wenn nötig, erkläre wichtige Begriffe in Klammern.  
 >
 > [EINFÜGEN: Originaltext]
 
