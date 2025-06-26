@@ -1,7 +1,7 @@
 # Prompt Engineering Portfolio
 
 Willkommen in meinem Portfolio!  
-Hier dokumentiere ich verschiedene Prompt-Engineering-Projekte mit konkrete Anwendungsfälle für Large Language Models (LLMs) in der Verwaltung, Industrie und Wissensmanagement.
+Hier dokumentiere ich verschiedene Prompt-Engineering-Projekte mit konkreten Anwendungsfällen für Large Language Models (LLMs) in der Verwaltung, Industrie und Wissensmanagement.
 
 Die Projekte zeigen, wie LLMs wie GPT-4 strategisch eingesetzt werden können, um echte Herausforderungen zu lösen – mit Fokus auf:
 - Texterstellung im Verwaltungsbereich
