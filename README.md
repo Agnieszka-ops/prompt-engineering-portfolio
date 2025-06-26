@@ -1,4 +1,4 @@
-# Prompt Eengineering Portfolio
+# Prompt Engineering Portfolio
 
 Willkommen in meinem Portfolio!  
 Hier zeige ich zwei Projekte, in denen ich konkrete Anwendungsfälle für Large Language Models (LLMs) in der Verwaltung und der Industrie umgesetzt habe:
