@@ -22,3 +22,38 @@ Die Umsetzung erfolgt in einem interaktiven [Jupyter Notebook](./notebook/report
 
 Beispieloutputs findest du im Ordner [`generated-output`](./generated-output)
 
+---
+## Weitere Beispiele : Berichtsanalyse & Wissensauswertung
+
+Du findest hier strukturierte Prompts zur Analyse, Zusammenfassung und Bewertung von internen Berichten.  
+Die Prompts sind so gestaltet, dass sie Large Language Models (LLMs) wie GPT-4 oder Claude gezielt dazu anleiten, konkrete verwertbare Ergebnisse zu erzeugen.
+
+---
+
+## Übersicht der Prompts
+
+| Datei | Anwendungsfall | Beschreibung |
+|-------|----------------|--------------|
+| [`wissensreport.md`](./wissensreport.md) | Intranet-/Wissensmanagementbericht auswerten | Erkenntnisse aus niedrig genutzten Portalen identifizieren, Verbesserungsvorschläge ableiten |
+| [`projektstatus.md`](./projektstatus.md) | Projektstatus analysieren & Risiken priorisieren | Zusammenfassung + Risikoeinschätzung aus Statusberichten |
+|
+## 📁 Beispieleingaben & -ausgaben
+
+Zu jedem Prompt findest du passende Beispieltexte im Ordner [`../beispiele/`](../beispiele):
+
+- `eingabe-wissensreport.txt` & `ausgabe-wissensreport.txt`
+- `eingabe-projektstatus.txt` & `ausgabe-projektstatus.txt`
+
+Die Beispiele zeigen jeweils einen realitätsnahen Berichtstext und den erwarteten Output des LLMs.
+
+---
+
+## Hinweise
+
+- Alle Prompts wurden mit Fokus auf Klarheit, Strukturierbarkeit und Modularität entwickelt
+- Die Texte können direkt in einem Prompt-Tool (Playground, ChatGPT, Claude etc.) getestet werden
+- Erweiterungen oder branchenspezifische Varianten sind vorgesehen
+
+---
+
+Für Rückfragen oder Feedback gerne Kontakt aufnehmen!
