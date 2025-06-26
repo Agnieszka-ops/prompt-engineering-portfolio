@@ -1,0 +1,3 @@
+- Balkendiagramm für Umsatzentwicklung
+- Heatmap für Risikoanalyse
+...
