@@ -39,7 +39,7 @@ Die Prompts sind so gestaltet, dass sie Large Language Models (LLMs) wie GPT-4 o
 |
 ## 📁 Beispieleingaben & -ausgaben
 
-Zu jedem Prompt findest du passende Beispieltexte im Ordner [`../beispiele/`](../beispiele):
+Zu jedem Prompt findest du passende Beispieltexte im Ordner [`../beispiele/`](./beispiele):
 
 - `eingabe-wissensreport.txt` & `ausgabe-wissensreport.txt`
 - `eingabe-projektstatus.txt` & `ausgabe-projektstatus.txt`
