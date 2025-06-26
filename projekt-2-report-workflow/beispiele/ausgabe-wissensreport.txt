@@ -1,0 +1,6 @@
+**Zusammenfassung:** Das Intranet-Portal wird kaum genutzt. Inhalte sind nicht aktuell. Es fehlt ein Prozess zur Pflege und Weiterentwicklung.
+
+**Verbesserungsvorschläge:**
+1. Benennung von Verantwortlichen für Inhaltsaktualisierung
+2. Einführung einer Feedbackmöglichkeit für Nutzende
+3. Überarbeitung der Suchfunktion mit Schlagwortsystem
