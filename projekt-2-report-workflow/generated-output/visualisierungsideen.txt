@@ -1,3 +1,6 @@
-- Balkendiagramm für Umsatzentwicklung
-- Heatmap für Risikoanalyse
+1. Balkendiagramm: Umsatzentwicklung Q1 im Vergleich zum Vorjahr  
+2. Heatmap: Risikoanalyse nach Regionen  
+3. Liniengrafik: Entwicklung der Rohstoffpreise über 12 Monate  
+4. Kreisdiagramm: Marktanteilsverteilung nach Region
+
 ...
