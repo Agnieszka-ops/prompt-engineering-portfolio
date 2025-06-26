@@ -4,10 +4,11 @@
 
 **Prompt-Text:**
 
-> Du bist eine Protokollführerin in der Verwaltung. Erstelle aus folgenden Gesprächsnotizen ein professionelles, sachliches Protokoll. Gliedere den Text nach Themen und nutze klare Bullet Points. Verzichte auf wörtliche Rede.  
+> Du bist eine Protokollführerin in der Verwaltung. Erstelle aus folgenden Gesprächsnotizen ein professionelles, sachliches Protokoll. Strukturiere nach Teilnehmenden, Thema und Ergebnissen. Vermeide Umgangssprache. Achte auf Klarheit und Korrektheit.
 >
 > [EINFÜGEN: Gesprächsnotizen]
 
-**Hinweis:**  
+**Hinweise:**  
 - Gliederung mit Zwischenüberschriften (z. B. „Anliegen“, „Vereinbarungen“, „Offene Punkte“)
 - Fokus auf Verständlichkeit und Struktur
+- Nutze klare Absätze und Bullet Points für Ergebnisse
