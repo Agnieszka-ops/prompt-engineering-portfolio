@@ -34,8 +34,8 @@ Die Prompts sind so gestaltet, dass sie Large Language Models (LLMs) wie GPT-4 o
 
 | Datei | Anwendungsfall | Beschreibung |
 |-------|----------------|--------------|
-| [`wissensreport.md`](./wissensreport.md) | Intranet-/Wissensmanagementbericht auswerten | Erkenntnisse aus niedrig genutzten Portalen identifizieren, Verbesserungsvorschläge ableiten |
-| [`projektstatus.md`](./projektstatus.md) | Projektstatus analysieren & Risiken priorisieren | Zusammenfassung + Risikoeinschätzung aus Statusberichten |
+| [`/prompts/wissensreport.md`](./wissensreport.md) | Intranet-/Wissensmanagementbericht auswerten | Erkenntnisse aus niedrig genutzten Portalen identifizieren, Verbesserungsvorschläge ableiten |
+| [`/prompts/projektstatus.md`](./projektstatus.md) | Projektstatus analysieren & Risiken priorisieren | Zusammenfassung + Risikoeinschätzung aus Statusberichten |
 |
 ## 📁 Beispieleingaben & -ausgaben
 
