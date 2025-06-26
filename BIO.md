@@ -11,8 +11,8 @@ Mit dieser Perspektive entwickle ich heute praxistaugliche LLM-basierte Workflow
 
 - **PhD & Wissenschaftlicher Hintergrund**: Forschungsschwerpunkt auf Selbst-Kontrolle und Selbst-Füsorge im Zusammenwirken mit Self-Tracking Wearables, Sensoren und Daten; digitale Subjektivierung 
 - **Prompt Engineering & KI-Anwendungen**: Strategisches Design & Evaluierung von Prompts für GPT-Modelle; Entwicklung klarer, effektiver Prompts für GPT‑4, Claude, LangChain  
-- **Digitale Transformation**: 20+ Jahre Beratung und Strategieentwicklung in Wirtschaft und öffentlicher Verwaltung :contentReference[oaicite:1]{index=1}  
-- **Sprachen & Kommunikation**: Deutsch & Englisch (verhandlungssicher), mit Fokus auf verständlicher, inklusiver Sprache  
+- **Digitale Transformation**: 20+ Jahre Beratung und Strategieentwicklung in Wirtschaft und öffentlicher Verwaltung 
+- **Sprachen & Kommunikation**: Deutsch, Polnisch & Englisch (verhandlungssicher), mit Fokus auf verständlicher, inklusiver Sprache  
 
 ---
 
